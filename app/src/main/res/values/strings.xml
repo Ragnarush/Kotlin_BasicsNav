@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile14_TP1_v2210043</string>
+    <string name="app_title">Jeu de mots</string>
+    <string name="myFirstname">firstname</string>
+    <string name="myLastname">lastname</string>
+    <string name="myDob">birthdate</string>
+    <string name="myCats">number of cats</string>
+    <string name="myDogs">number of dogs</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="nDogs">Number of dogs</string>
+    <string name="nCats">Number of cats</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="bDate">BirthDate</string>
+    <string name="typeChat">etes de type chat</string>
+    <string name="typeChien">etes de type chien</string>
+    <string name="typeAnimal">aimez les animaux</string>
+    <string name="typeRien">n\'avez pas d\'animaux</string>
+    <string name="Dob">date de naissance</string>
+</resources>
